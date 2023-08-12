@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shai Kiko</h1>
 <h3 align="center">A passionate software developer from Israel</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56535991/121919004-354b3400-cd54-11eb-968b-5c5c3af89598.gif">
+<br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik1201&label=Profile%20views&color=0e75b6&style=flat" alt="shaik1201" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik1201" alt="shaik1201" /></a> </p>
 
 - 🌱 I’m currently learning **React, Node js**
 
