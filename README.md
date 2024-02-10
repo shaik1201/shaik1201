@@ -7,7 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik1201&label=Profile%20views&color=0e75b6&style=flat" alt="shaik1201" /> </p>
 
 
-- 🌱 I’m currently learning **React, Node js**
 
 - 📫 How to reach me **shaikiko12@gmail.com**
 
